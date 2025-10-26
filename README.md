@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Java DSA Problems – Sigma 3.0 Course
 
 This repository contains my personal solutions to **Data Structures and Algorithms problems** covered in the **Sigma 3.0 DSA + Web Development Course**, using **Java**.
@@ -43,3 +44,6 @@ This repository contains my personal solutions to **Data Structures and Algorith
 ---
 
 > 💬 *“Code every day, even if it's just one line — consistency compounds.”*
+=======
+# These are the problems i solved in my Sigma 3.0 course of DSA using java and web development
+>>>>>>> d3ce815 (Stable commit)
